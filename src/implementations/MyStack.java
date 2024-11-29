@@ -112,7 +112,6 @@ public class MyStack<E> implements StackADT<E> {
    }
 	@Override
 	public boolean stackOverflow() {
-		// TODO Auto-generated method stub
 		return false;
 	}
 }
